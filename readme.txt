@@ -6,4 +6,4 @@ mastermaster
 remote
 add something
 master nihao
-yorick_jun
+yorick_jun add something
